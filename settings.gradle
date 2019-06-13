@@ -1,0 +1,4 @@
+rootProject.name = 'gs-multi-module'
+
+include 'app-domain'
+include 'app-service'
